@@ -11,5 +11,9 @@ Objectives:
 To understand the behavior of a server under high traffic conditions.
 To explore the concept of thread-based concurrency for generating simultaneous requests.
 To analyze the impact of excessive requests on server performance.
+
+To test, run the server script (server.py), then execute the simulator (simulador_ddos.py) and input the number of requests.
+
 Note:
 This project is for educational purposes only and aims to provide a hands-on understanding of server performance under stress. It is not intended to encourage or promote malicious activities.
+
